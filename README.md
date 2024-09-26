@@ -6,8 +6,4 @@ This project presents a comprehensive statistical analysis of a retail sales dat
 
 
 ## Datasets Used
-
-The following datasets are included in the `data` folder of this repository:
-1. [**Sales Data**]: Contains weekly sales data for each store and department.
-2. [**Store Data**]: Provides information on store characteristics, including size and type.
-3. [**Features Data**]: Contains additional economic indicators such as markdowns, fuel prices, and unemployment rates.
+(https://www.kaggle.com/datasets/manjeetsingh/retaildataset)
